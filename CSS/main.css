@@ -245,7 +245,6 @@ footer .text2{ padding-top: 10px }
 
 .ipad-pro-display { padding-bottom: 50px; border-bottom: 20px solid rgb(240, 240, 240); overflow: hidden;}
 .ipad-pro-display .text{ margin-left: 700px; margin-top:50px; }
-/* .ipad-pro-display img{margin-top: 50px; overflow: hidden;} */
 .ipad-pro-img{ width: 100%; height: 300ppx; object-position: cover; object-position: left;  padding: 0px 0px 0px 350px;}
 
 .display-section{ background-color: rgb(240, 240, 240); }
@@ -371,7 +370,6 @@ footer .text2{ padding-top: 10px }
 
 
 .newsandgiftcard{ display: flex; width: 100%; overflow: hidden; justify-content: space-around;}
-
 .apple-news-entertain { background-color: white; position: relative; text-align: center; margin-bottom: 50px;}
 
 .apple-news-entertain .text{ position: absolute;  margin-top: 30px; margin-left: 130px;}
@@ -383,11 +381,8 @@ footer .text2{ padding-top: 10px }
 .giftcard-entertain .text{ position: absolute; margin-top: -150px; margin-left: 190px;}
 
 
-
 .apple-education-and-work{ display: flex; width: 100%; overflow: hidden; justify-content: space-around; text-align: center;}
-
 .apple-news-entertain { background-color: white; position: relative; text-align: center; margin-bottom: 50px;}
-
 .apple-education .text{ position: absolute;  margin-top: 30px; margin-left: 100px;}
 .apple-education .text h1{ color: white; font-size: 45px; font-weight: 500;}
 .apple-education .text h3{ color: white; font-size: 20px; font-weight: 400;}
@@ -398,7 +393,4 @@ footer .text2{ padding-top: 10px }
 .apple-ipad-work h1{  color: white; font-size: 50px; }
 .apple-ipad-work a{ font-size: 30px;color: white; }
 
-
-
 /* ipad page end */
-
