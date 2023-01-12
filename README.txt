@@ -1,4 +1,4 @@
-I followed a 4 day challenge set for me to create a 3 page website UI, further tweaks will be carried out later on.
+I followed a 4 day challenge set for me to create a 3 page website UI of Apple.com, further tweaks will be carried out later on.
 You are to clone the apple website with the resources given to you. View and download the resources on your dashboard and extract the zip folder and you will find all the images you need.
 
 You are to create three pages:
